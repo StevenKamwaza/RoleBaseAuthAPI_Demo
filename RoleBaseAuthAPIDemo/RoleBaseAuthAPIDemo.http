@@ -1,0 +1,6 @@
+@RoleBaseAuthAPIDemo_HostAddress = http://localhost:5125
+
+GET {{RoleBaseAuthAPIDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
