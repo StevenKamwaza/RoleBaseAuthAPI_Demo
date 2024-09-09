@@ -1,4 +1,4 @@
-﻿namespace RoleBaseAuthAPIDemo.Models
+﻿namespace RoleBaseAuthAPIDemo.Domain.Models
 {
     public class UserRole
     {
